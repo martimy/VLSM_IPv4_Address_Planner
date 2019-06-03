@@ -20,7 +20,7 @@ class AddressPlan4(object):
         # Ratio of blocks relative to the smallest block
         # these are the BinPack requirements
         u = [max(blocks) // i for i in blocks]
-        u_size = 2 ** min(bits)  # bits[-1] is the smallest
+        u_size = 2 ** min(bits)
 
         bins = BinPack(min(blocks), max(u))  # Num. of bins and bin size (min c and max u)
         result, _ = bins.fit(u)
