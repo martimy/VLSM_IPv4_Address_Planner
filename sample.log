@@ -1,0 +1,23 @@
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "C:/Users/Maen/SkyDrive/Documents/AddressPlanner/logex.py", line 7, in <module>
+    raise RuntimeError
+RuntimeError
+ERROR:ex:Error!
+Traceback (most recent call last):
+  File "C:/Users/Maen/SkyDrive/Documents/AddressPlanner/logex.py", line 7, in <module>
+    raise RuntimeError
+RuntimeError
+ERROR:ex:Error!
+ERROR:ex:Error!
+ERROR:ex:Error!
+ERROR:ex:Error!
+ERROR:__main__:Error!
+ERROR:__main__:Error!
+WARNING:__main__:Encounter an error during parsing TCP option field.Skip parsing TCP option.
+ERROR:__main__:Error!
+WARNING:__main__:Encounter an error during parsing TCP option field.Skip parsing TCP option.
+ERROR:__main__:Error!
+WARNING:__main__:Encounter an error during parsing TCP option field.Skip parsing TCP option.
+ERROR:__main__:Error!
+WARNING:__main__:Encounter an error during parsing TCP option field.Skip parsing TCP option.
