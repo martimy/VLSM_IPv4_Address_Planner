@@ -1,5 +1,20 @@
 This is a complete app to automatically create an IPAdderss plan for a network
 
+
+# VLSM (CIDR) Subnet Calculator
+
+Variable Length Subnet Masking is a technique that allows network designer to 
+divide an IP address space to subnets of different sizes, 
+unlike simple same-size subnetting. 
+
+This app is intend to automate and simplify VLSM calculation process.
+
+# How to use
+
+Provide major network prefix and mask, e,g. 192.168.1.0/24
+Provide sizes (number of assignable ip addresses) of required subnets.
+
+
 # Algorithm
 
 Input: 
