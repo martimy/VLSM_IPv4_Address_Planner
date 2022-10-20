@@ -4,8 +4,7 @@ This is a complete app to automatically create an IPAdderss plan for a network
 # VLSM (CIDR) Subnet Calculator
 
 Variable Length Subnet Masking is a technique that allows network designer to 
-divide an IP address space to subnets of different sizes, 
-unlike simple same-size subnetting. 
+divide an IP address space to subnets of different sizes, unlike simple same-size subnetting. 
 
 This app is intend to automate and simplify VLSM calculation process.
 
@@ -35,8 +34,7 @@ Input:
 
 # Example:
 
-Say you are give the prefix 192.168.4.0/24
-and asked to subnet it to networks of 72, 15, and 6 hosts each (ignore growth).
+Say you are give the prefix 192.168.4.0/24 and asked to subnet it to networks of 72, 15, and 6 hosts each (ignore growth).
 
 1. The required bits for each: 7, 5, 3
 2. 32-24-7 = 1, 32-24-5 = 3, 32-24-3 = 5
