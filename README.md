@@ -32,12 +32,12 @@ H | 67 | 59 | 10.10.4.0/25
 D | 62 | 64 | 10.10.4.128/25      
 C | 50 | 12 | 10.10.5.0/26        
 
-Total available addresses: 2048
-Allocated blocks: [4, 4, 4, 2, 2, 2, 2, 1]
-Block size: 64
-Offset: [0, 4, 8, 12, 14, 16, 18, 20]
-Legend: (#) Allocated block, (-) Free block
-\#####################-----------
+Total available addresses: 2048  
+Allocated blocks: [4, 4, 4, 2, 2, 2, 2, 1]  
+Block size: 64  
+Offset: [0, 4, 8, 12, 14, 16, 18, 20]  
+Legend: (#) Allocated block, (-) Free block  
+\#####################-----------  
 
 
 If the WORST packing method is used, the output will be:
@@ -53,9 +53,9 @@ H | 67 | 59 | 10.10.5.0/25
 D | 62 | 64 | 10.10.6.0/25        
 C | 50 | 12 | 10.10.7.0/26        
 
-Total available addresses: 2048
-Allocated blocks: [4, 4, 4, 2, 2, 2, 2, 1]
-Block size: 64
-Offset: [0, 4, 8, 12, 16, 20, 24, 28]
-Legend: (#) Allocated block, (-) Free block
-##############--##--##--##--#---
+Total available addresses: 2048  
+Allocated blocks: [4, 4, 4, 2, 2, 2, 2, 1]  
+Block size: 64  
+Offset: [0, 4, 8, 12, 16, 20, 24, 28]  
+Legend: (#) Allocated block, (-) Free block  
+##############--##--##--##--#---  
